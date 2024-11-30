@@ -1,0 +1,6 @@
+# Rime user dictionary
+#@/db_name	flypy
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	0
+#@/user_id	b6ca52f1-d1be-4cc2-9d07-aa8b3716d1d6

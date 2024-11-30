@@ -1,0 +1,17 @@
+# Rime user dictionary
+#@/db_name	easy_en
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	12
+#@/user_id	b6ca52f1-d1be-4cc2-9d07-aa8b3716d1d6
+dale 	dale	c=1 d=0.970446 t=12
+inter 	inter	c=1 d=0.965605 t=12
+interface 	interface	c=1 d=0.985112 t=12
+java 	java	c=2 d=1.98506 t=12
+long 	long	c=1 d=0.960789 t=12
+mail 	mail	c=1 d=0.980199 t=12
+public 	public	c=1 d=0.97531 t=12
+song 	song	c=1 d=0.946485 t=12
+token 	token	c=1 d=0.951229 t=12
+void 	void	c=1 d=1 t=12
+windows 	Windows	c=1 d=0.955997 t=12
